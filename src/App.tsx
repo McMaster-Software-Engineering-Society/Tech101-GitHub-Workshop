@@ -23,7 +23,7 @@ function App() {
         <h2 className="font-bold tracking-wide text-lg">Filters</h2>
         <div
           id="filter-list"
-          className="flex flex-row gap-x-4 mt-4 overflow-x-scroll max-w-screen-lg flex-wrap gap-y-4 select-none"
+          className="flex flex-row gap-x-4 mt-4 max-w-screen-lg flex-wrap gap-y-4 select-none"
         >
           {selectedFilterIndex === -1 ? (
             <div className="bg-[#7588f1] transition-all rounded-xl flex flex-row items-center gap-x-3 px-7">
