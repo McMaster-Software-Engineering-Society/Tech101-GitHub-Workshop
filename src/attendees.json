@@ -1,10 +1,25 @@
 [
   {
+    
     "name": "Will Scott",
     "program": "Tron + Soc",
     "level": 2,
     "githubUsername": "WillScott9214",
     "funFact": "I have seen Ryan Reynolds with my own eyes"
+  },
+    {
+    "name": "Stephanie Li",
+    "program": "Computer Science",
+    "level": 1,
+    "githubUsername": "steph_and_e",
+    "funFact": "My middle finger got infected because a broccoli grain got stuck under my cuticle."
+  },
+  {
+    "name": "Baoze Lin",
+    "program": "Software Engineering", 
+    "level": 4,
+    "githubUsername": "BaoGeist",
+    "funFact": "I love any colour other than blue"
   },
   {
     "name": "Willie Pai",
