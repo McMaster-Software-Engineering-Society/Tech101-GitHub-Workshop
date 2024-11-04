@@ -1,10 +1,10 @@
 [
   {
-    "name": "FirstName LastName",
-    "program": "Program Name Here",
-    "level": -1,
-    "githubUsername": "username",
-    "funFact": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    "name": "Baoze Lin",
+    "program": "Software Engineering", 
+    "level": 4,
+    "githubUsername": "BaoGeist",
+    "funFact": "I love any colour other than blue"
   },
   {
     "name": "Willie Pai",
