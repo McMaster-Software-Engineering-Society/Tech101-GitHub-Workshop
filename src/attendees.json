@@ -5,5 +5,12 @@
     "level": -1,
     "githubUsername": "username",
     "funFact": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  },
+  {
+    "name": "Willie Pai",
+    "program": "Software Engineering",
+    "level": 5,
+    "githubUsername": "paiswillie",
+    "funFact": "I love the colour blue."
   }
 ]
