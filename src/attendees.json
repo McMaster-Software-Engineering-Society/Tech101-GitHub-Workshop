@@ -1,9 +1,16 @@
 [
   {
-    "name": "Karim Almomani",
-    "program": "Engineering 1",
-    "level": 1,
-    "githubUsername": "TheMomani",
-    "funFact": "I have no idea what im doing."
+    "name": "FirstName LastName",
+    "program": "Program Name Here",
+    "level": -1,
+    "githubUsername": "username",
+    "funFact": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  },
+  {
+    "name": "Willie Pai",
+    "program": "Software Engineering",
+    "level": 5,
+    "githubUsername": "paiswillie",
+    "funFact": "I love the colour blue."
   }
 ]
