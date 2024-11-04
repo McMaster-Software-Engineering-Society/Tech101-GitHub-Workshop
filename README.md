@@ -1,5 +1,8 @@
 # Tech101: GitHub Workshop
 
+## Companion Slides
+Find the companion slides for this event [here](https://docs.google.com/presentation/d/1yMvwBghvprOUx4_AKjAZzD5wFkWlJ4m-8pHeSsRg6fk/edit?usp=sharing)
+
 ## Installation Instructions
 
 Follow these steps to set up the project on your local machine.
